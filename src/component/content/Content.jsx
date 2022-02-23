@@ -5,8 +5,7 @@ export function Content(){
     return(
         <section className='ncc__content'>
             <div className='ncc__content--image'>
-                <img src='' alt=''/>
-                <h1>We do <span>it</span> with passion</h1>
+                <img src='./images/logoNCC.svg' alt=''/>
             </div>
             <div className='ncc__content__introduce'>
                 <h4>
@@ -20,21 +19,21 @@ export function Content(){
                 <div className='ncc__content__course'>
                     <h3>Lorem ipsum dolor sit amet</h3>
                     <div>
-                        <img src='' alt=''/>
+                        <img src='./images/css-icon.svg' alt=''/>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
                     </div>
                 </div>
                 <div className='ncc__content__course'>
                     <h3>Lorem ipsum dolor sit amet</h3>
                     <div>
-                        <img src='' alt=''/>
+                        <img src='./images/html-icon.svg' alt=''/>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
                     </div>
                 </div>
                 <div className='ncc__content__course'>
                     <h3>Lorem ipsum dolor sit amet</h3>
                     <div>
-                        <img src='' alt=''/>
+                        <img src='./images/url-icon.svg' alt=''/>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
                     </div>
                 </div>

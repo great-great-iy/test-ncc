@@ -6,20 +6,17 @@
 
 .ncc__content--image{
     text-align: center;
-    height: 130px;
+    padding-top: 10px;
+    height: 120px;
 }
-
-.ncc__content--image h1{
-    padding-top: 40px;
-}
-.ncc__content--image h1 span{
-    color: red;
+.ncc__content--image img{
+    height: 80%;
 }
 
 .ncc__content__introduce{
     text-align: center;
     background-color: #efefef;
-    padding: 20px 20%;
+    padding: 15px 20%;
 }
 .ncc__content__courses{
     display: flex;
