@@ -38,6 +38,10 @@
     color: #FFFFFF;
 }
 
+.ncc__sidebar--navbar li a:focus{
+    color: #FFFFFF;
+}
+
 .ncc__sidebar--navbar .active{
     color: #FFFFFF;
 }
