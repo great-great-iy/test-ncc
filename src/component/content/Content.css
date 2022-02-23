@@ -1,3 +1,19 @@
 .ncc__content{
+    position: relative;
 
+    margin: auto 7%;
+}
+
+.ncc__content--image{
+
+}
+
+.ncc__content__courses{
+    display: flex;
+    
+}
+
+.ncc__content__course{
+    flex-basis: 30%;
+    margin: auto;
 }

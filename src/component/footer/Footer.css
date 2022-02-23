@@ -1,0 +1,19 @@
+.ncc__footer{
+    position: absolute;
+    height: 8vh;
+    width: 90vw;
+    border-top: 0.01px solid #dedede;
+    bottom: 0%;
+}
+
+.ncc__footer--text{
+
+    margin: 20px 0 0 10%;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+
+    color: #3E3E3E;
+}

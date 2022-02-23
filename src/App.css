@@ -1,4 +1,5 @@
 *{
+
     font-family: Roboto;
     font-style: normal;
 }
@@ -8,10 +9,12 @@
 }
 
 .sidebar__container{
+    height: 100vh;
     flex-grow: 2;
     background-color: #191718;
 }
 
 .content__container{
+    height: 100vh;
     flex-grow: 8;
 }
