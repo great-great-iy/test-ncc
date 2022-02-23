@@ -1,0 +1,33 @@
+.ncc__sidebar{
+
+}
+
+.ncc__sidebar--navbar{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.ncc__sidebar--navbar li{
+    list-style-type: none;
+    width: 150px;
+    height: 44px;
+    border-bottom: 0.01px solid #5c5c5c;
+}
+
+.ncc__sidebar--navbar li a{
+    position: relative;
+    text-decoration: none;
+    margin: 14px 91px 11px 16px;
+    top: 40%;
+    transform: translateY(-50%);
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+}

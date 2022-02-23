@@ -1,14 +1,15 @@
 import React from 'react';
+import './Sidebar.css'
 
 export function Sidebar(){
     return(<>
         <section className='ncc__sidebar'>
             <ul className='ncc__sidebar--navbar'>
-                <li>Home</li>
-                <li>Services</li>
-                <li>News</li>
-                <li>Blog</li>
-                <li>Contact</li>
+                <li><a href=''>Home</a></li>
+                <li><a href=''>Services</a></li>
+                <li><a href=''>News</a></li>
+                <li><a href=''>Blog</a></li>
+                <li><a href=''>Contact</a></li>
             </ul>
         </section>
     </>);

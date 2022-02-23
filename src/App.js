@@ -6,10 +6,10 @@ import { Sidebar } from './component/sidebar/Sidebar';
 function App() {
   return (
     <div className="container">
-      <div>
+      <div className='sidebar__container'>
         <Sidebar/>
       </div>
-      <div>
+      <div className='content__container'>
         <Content/>
         <Footer/>
       </div>

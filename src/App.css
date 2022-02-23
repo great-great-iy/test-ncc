@@ -1,0 +1,17 @@
+*{
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.container{
+    display: flex;
+}
+
+.sidebar__container{
+    flex-grow: 2;
+    background-color: #191718;
+}
+
+.content__container{
+    flex-grow: 8;
+}
