@@ -8,7 +8,7 @@ export function Content(){
                 <img src='' alt=''/>
                 <h1>We do <span>it</span> with passion</h1>
             </div>
-            <div>
+            <div className='ncc__content__introduce'>
                 <h4>
                     Lorem ipsum dolor sit asmet?
                 </h4>
