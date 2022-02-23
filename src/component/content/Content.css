@@ -16,8 +16,16 @@
 .ncc__content__introduce{
     text-align: center;
     background-color: #efefef;
-    padding: 15px 20%;
+    padding: 12px 20%;
 }
+
+p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #000000;
+}
+
 .ncc__content__courses{
     display: flex;
 }
@@ -25,4 +33,14 @@
 .ncc__content__course{
     flex-basis: 30%;
     margin: auto;
+}
+
+.ncc__content_course--content p{
+    text-align: justify;
+}
+
+.ncc__content_course--content img{
+    height: 25%;
+    float: left;
+    padding-right: 8px;
 }
