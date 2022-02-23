@@ -1,6 +1,6 @@
 .ncc__footer{
     position: absolute;
-    height: 6vh;
+    height: 8vh;
     width: 90vw;
     border-top: 0.01px solid #dedede;
     bottom: 0%;
@@ -8,7 +8,7 @@
 
 .ncc__footer--text{
 
-    margin: 15px 0 0 10%;
+    margin: 18px 0 0 10%;
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;

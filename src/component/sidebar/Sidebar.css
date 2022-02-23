@@ -12,22 +12,23 @@
     list-style-type: none;
     width: 150px;
     height: 44px;
-    border-bottom: 0.01px solid #5c5c5c;
+    border-bottom: 1px solid #5C5C5C;
 }
 
 .ncc__sidebar--navbar li a{
     position: relative;
     text-decoration: none;
-    margin: 14px 91px 11px 16px;
-    top: 40%;
-    transform: translateY(-50%);
+    margin-left: 16px;
+    top: 30%;
 
-    font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 19px;
     /* identical to box height */
 
     color: #FFFFFF;
+}
+
+.ncc__sidebar--navbar li:hover{
+    background-color: #5C5C5C;
 }
